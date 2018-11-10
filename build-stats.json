@@ -2,73 +2,28 @@
   "errors": [
   ],
   "warnings": [
-    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/source.2cf0a.js (677 KiB)",
-    "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  source (686 KiB)\n      css/cabad4a17411767090c3.14bb3.css\n      js/source.2cf0a.js\n",
+    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  js/source.6d202.js (678 KiB)",
+    "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  source (686 KiB)\n      css/cabad4a17411767090c3.e860a.css\n      js/source.6d202.js\n",
     "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/"
   ],
   "version": "4.16.1",
-  "hash": "14bb3821f890b5eadee2",
-  "time": 33355,
-  "builtAt": 1541877865788,
+  "hash": "e860a33854aa18e529cd",
+  "time": 34324,
+  "builtAt": 1541881513617,
   "publicPath": "/react-my-personal-project/",
   "outputPath": "F:\\LECTRUM_REACT\\react-my-personal-project\\build",
   "assetsByChunkName": {
     "source": [
-      "css/cabad4a17411767090c3.14bb3.css",
-      "js/source.2cf0a.js",
-      "css/cabad4a17411767090c3.14bb3.css.map",
-      "js/source.2cf0a.js.map"
+      "css/cabad4a17411767090c3.e860a.css",
+      "js/source.6d202.js",
+      "css/cabad4a17411767090c3.e860a.css.map",
+      "js/source.6d202.js.map"
     ]
   },
   "assets": [
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-      "size": 5111,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-      "size": 1690,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
-      "size": 2367,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-      "size": 771,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-      "size": 445,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
-      "size": 455,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
+      "size": 33310,
       "chunks": [
       ],
       "chunkNames": [
@@ -85,8 +40,44 @@
       "emitted": true
     },
     {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
+      "size": 445,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
       "size": 953,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
+      "size": 551,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
+      "size": 771,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+      "size": 1690,
       "chunks": [
       ],
       "chunkNames": [
@@ -103,8 +94,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
-      "size": 490,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
+      "size": 2367,
       "chunks": [
       ],
       "chunkNames": [
@@ -121,8 +112,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-      "size": 551,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+      "size": 494,
       "chunks": [
       ],
       "chunkNames": [
@@ -132,6 +123,24 @@
     {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
       "size": 824,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+      "size": 490,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
+      "size": 896,
       "chunks": [
       ],
       "chunkNames": [
@@ -175,17 +184,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-      "size": 896,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
-      "size": 896,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+      "size": 551,
       "chunks": [
       ],
       "chunkNames": [
@@ -202,8 +202,35 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-      "size": 494,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+      "size": 896,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
+      "size": 314,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
+      "size": 424,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+      "size": 455,
       "chunks": [
       ],
       "chunkNames": [
@@ -220,8 +247,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-      "size": 6537,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+      "size": 5111,
       "chunks": [
       ],
       "chunkNames": [
@@ -229,8 +256,17 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-      "size": 551,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+      "size": 4385,
+      "chunks": [
+      ],
+      "chunkNames": [
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+      "size": 6537,
       "chunks": [
       ],
       "chunkNames": [
@@ -256,8 +292,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-      "size": 4385,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+      "size": 16064,
       "chunks": [
       ],
       "chunkNames": [
@@ -292,35 +328,8 @@
       "emitted": true
     },
     {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-      "size": 16064,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
-      "size": 424,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
-      "size": 314,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-      "size": 33310,
+      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
+      "size": 670,
       "chunks": [
       ],
       "chunkNames": [
@@ -330,15 +339,6 @@
     {
       "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
       "size": 1066,
-      "chunks": [
-      ],
-      "chunkNames": [
-      ],
-      "emitted": true
-    },
-    {
-      "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
-      "size": 670,
       "chunks": [
       ],
       "chunkNames": [
@@ -382,7 +382,7 @@
       "emitted": true
     },
     {
-      "name": "css/cabad4a17411767090c3.14bb3.css",
+      "name": "css/cabad4a17411767090c3.e860a.css",
       "size": 8399,
       "chunks": [
         0
@@ -393,8 +393,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.2cf0a.js",
-      "size": 693700,
+      "name": "js/source.6d202.js",
+      "size": 693886,
       "chunks": [
         0
       ],
@@ -405,7 +405,7 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "css/cabad4a17411767090c3.14bb3.css.map",
+      "name": "css/cabad4a17411767090c3.e860a.css.map",
       "size": 13343,
       "chunks": [
         0
@@ -416,8 +416,8 @@
       "emitted": true
     },
     {
-      "name": "js/source.2cf0a.js.map",
-      "size": 859278,
+      "name": "js/source.6d202.js.map",
+      "size": 859746,
       "chunks": [
         0
       ],
@@ -452,10 +452,10 @@
         0
       ],
       "assets": [
-        "css/cabad4a17411767090c3.14bb3.css",
-        "js/source.2cf0a.js",
-        "css/cabad4a17411767090c3.14bb3.css.map",
-        "js/source.2cf0a.js.map"
+        "css/cabad4a17411767090c3.e860a.css",
+        "js/source.6d202.js",
+        "css/cabad4a17411767090c3.e860a.css.map",
+        "js/source.6d202.js.map"
       ],
       "children": {
       },
@@ -470,10 +470,10 @@
         0
       ],
       "assets": [
-        "css/cabad4a17411767090c3.14bb3.css",
-        "js/source.2cf0a.js",
-        "css/cabad4a17411767090c3.14bb3.css.map",
-        "js/source.2cf0a.js.map"
+        "css/cabad4a17411767090c3.e860a.css",
+        "js/source.6d202.js",
+        "css/cabad4a17411767090c3.e860a.css.map",
+        "js/source.6d202.js.map"
       ],
       "children": {
       },
@@ -488,17 +488,17 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 708108,
+      "size": 708294,
       "names": [
         "source"
       ],
       "files": [
-        "css/cabad4a17411767090c3.14bb3.css",
-        "js/source.2cf0a.js",
-        "css/cabad4a17411767090c3.14bb3.css.map",
-        "js/source.2cf0a.js.map"
+        "css/cabad4a17411767090c3.e860a.css",
+        "js/source.6d202.js",
+        "css/cabad4a17411767090c3.e860a.css.map",
+        "js/source.6d202.js.map"
       ],
-      "hash": "2cf0a85499633bc55b7b",
+      "hash": "6d2024aa35b8d6ae2370",
       "siblings": [
       ],
       "parents": [
@@ -6620,8 +6620,8 @@
               "module": "./node_modules/moment/locale sync ^\\.\\/.*$",
               "moduleName": "./node_modules/moment/locale sync ^\\.\\/.*$",
               "type": "context element",
-              "userRequest": "./gom-latn",
-              "loc": "./gom-latn"
+              "userRequest": "./gom-latn.js",
+              "loc": "./gom-latn.js"
             },
             {
               "moduleId": 158,
@@ -6629,8 +6629,8 @@
               "module": "./node_modules/moment/locale sync ^\\.\\/.*$",
               "moduleName": "./node_modules/moment/locale sync ^\\.\\/.*$",
               "type": "context element",
-              "userRequest": "./gom-latn.js",
-              "loc": "./gom-latn.js"
+              "userRequest": "./gom-latn",
+              "loc": "./gom-latn"
             }
           ],
           "usedExports": true,
@@ -13180,9 +13180,9 @@
           "chunks": [
             0
           ],
-          "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
-          "issuerId": 161,
-          "issuerName": "./node_modules/uuid/v4.js",
+          "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
+          "issuerId": 160,
+          "issuerName": "./node_modules/uuid/v1.js",
           "issuerPath": [
             {
               "id": 137,
@@ -13215,9 +13215,9 @@
               "name": "./node_modules/uuid/index.js"
             },
             {
-              "id": 161,
-              "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
-              "name": "./node_modules/uuid/v4.js"
+              "id": 160,
+              "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
+              "name": "./node_modules/uuid/v1.js"
             }
           ],
           "failed": false,
@@ -13267,9 +13267,9 @@
           "chunks": [
             0
           ],
-          "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
-          "issuerId": 160,
-          "issuerName": "./node_modules/uuid/v1.js",
+          "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
+          "issuerId": 161,
+          "issuerName": "./node_modules/uuid/v4.js",
           "issuerPath": [
             {
               "id": 137,
@@ -13302,9 +13302,9 @@
               "name": "./node_modules/uuid/index.js"
             },
             {
-              "id": 160,
-              "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
-              "name": "./node_modules/uuid/v1.js"
+              "id": 161,
+              "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
+              "name": "./node_modules/uuid/v4.js"
             }
           ],
           "failed": false,
@@ -14232,7 +14232,7 @@
           "name": "./source/components/Scheduler/index.js",
           "index": 21,
           "index2": 171,
-          "size": 8080,
+          "size": 8127,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -14277,7 +14277,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 2,
-          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _index = _interopRequireDefault(require(\"../../components/Task/index\"));\n\nvar _index2 = _interopRequireDefault(require(\"../../components/Spinner/index\"));\n\nvar _REST = require(\"../../REST\");\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _instruments = require(\"../../instruments\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Scheduler extends _react.Component {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      tasks: [],\n      isTasksFetching: false,\n      newTaskMessage: '',\n      tasksFilter: ''\n    });\n\n    _defineProperty(this, \"_setTasksFetchingState\", isTasksFetching => {\n      this.setState({\n        isTasksFetching\n      });\n    });\n\n    _defineProperty(this, \"_updateTasksFilter\", event => {\n      const {\n        value\n      } = event.target;\n      this.setState({\n        tasksFilter: value.toLowerCase()\n      });\n\n      this._filterTask();\n    });\n\n    _defineProperty(this, \"_filterTask\", () => {\n      const {\n        tasks,\n        tasksFilter\n      } = this.state;\n\n      if (tasksFilter) {\n        const filteredUserTasks = tasks.filter(task => {\n          return task.message.toLowerCase().includes(tasksFilter);\n        });\n        return filteredUserTasks;\n      }\n\n      return null;\n    });\n\n    _defineProperty(this, \"_fetchTasksAsync\", async () => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const tasks = await _REST.api.fetchTasks();\n        this.setState({\n          tasks: (0, _instruments.sortTasksByGroup)(tasks)\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_createTaskAsync\", async event => {\n      event.preventDefault();\n      const {\n        newTaskMessage\n      } = this.state;\n\n      if (newTaskMessage) {\n        try {\n          this._setTasksFetchingState(true);\n\n          const task = await _REST.api.createTask(newTaskMessage);\n          this.setState(prevState => ({\n            tasks: (0, _instruments.sortTasksByGroup)([task, ...prevState.tasks]),\n            newTaskMessage: ''\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateTaskAsync\", async taskToUpdate => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const {\n          tasks\n        } = this.state;\n        const updatedTask = await _REST.api.updateTask(taskToUpdate);\n        const index = tasks.findIndex(task => task.id === taskToUpdate.id);\n        const updatedTasks = tasks.map((task, id) => id === index ? updatedTask : task);\n        const sortedUpdatedTasks = (0, _instruments.sortTasksByGroup)(updatedTasks);\n        this.setState({\n          tasks: sortedUpdatedTasks\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_removeTaskAsync\", async id => {\n      try {\n        this._setTasksFetchingState(true);\n\n        await _REST.api.removeTask(id);\n        this.setState(({\n          tasks\n        }) => ({\n          tasks: tasks.filter(task => task.id !== id)\n        }));\n      } catch ({\n        message\n      }) {\n        console.error(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_getAllCompleted\", () => {\n      return this.state.tasks.every(task => task.completed);\n    });\n\n    _defineProperty(this, \"_completeAllTasksAsync\", async () => {\n      const incompleteTasks = this.state.tasks.filter(task => task.completed === false);\n\n      if (incompleteTasks.length !== 0) {\n        this._setTasksFetchingState(true);\n\n        try {\n          await _REST.api.completeAllTasks(incompleteTasks.map(task => {\n            task.completed = true;\n            return task;\n          }));\n          this.setState(({\n            tasks\n          }) => ({\n            tasks: tasks.map(task => {\n              task.completed = true;\n              return task;\n            })\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newTaskMessage\n      } = event.target;\n      this.setState({\n        newTaskMessage\n      });\n    });\n  }\n\n  componentDidMount() {\n    this._fetchTasksAsync();\n  }\n\n  render() {\n    const {\n      tasks,\n      isTasksFetching,\n      newTaskMessage,\n      tasksFilter\n    } = this.state;\n\n    const _filteredTask = this._filterTask();\n\n    const currentUserTasks = _filteredTask !== null ? _filteredTask : tasks;\n    const isCheckBoxChecked = tasks.length ? this._getAllCompleted() : false;\n    const tasksJsx = currentUserTasks.map(task => {\n      return _react.default.createElement(_index.default, _extends({\n        key: task.id\n      }, task, {\n        _removeTaskAsync: this._removeTaskAsync,\n        _updateTaskAsync: this._updateTaskAsync\n      }));\n    });\n    return _react.default.createElement(\"section\", {\n      className: _stylesM.default.scheduler\n    }, _react.default.createElement(\"main\", null, _react.default.createElement(_index2.default, {\n      isSpinning: isTasksFetching\n    }), _react.default.createElement(\"header\", null, _react.default.createElement(\"h1\", null, \"Task manager\"), _react.default.createElement(\"input\", {\n      placeholder: \"Search\",\n      type: \"search\",\n      value: tasksFilter,\n      onChange: this._updateTasksFilter\n    })), _react.default.createElement(\"section\", null, _react.default.createElement(\"form\", {\n      onSubmit: this._createTaskAsync\n    }, _react.default.createElement(\"input\", {\n      className: _stylesM.default.createTask,\n      maxLength: 50,\n      placeholder: \"Task description\",\n      type: \"text\",\n      value: newTaskMessage,\n      onChange: this._updateNewTaskMessage\n    }), _react.default.createElement(\"button\", null, \"Add task\")), _react.default.createElement(\"div\", {\n      className: _stylesM.default.overlay\n    }, _react.default.createElement(\"ul\", null, tasksJsx))), _react.default.createElement(\"footer\", null, _react.default.createElement(_Checkbox.default, {\n      checked: isCheckBoxChecked,\n      onClick: this._completeAllTasksAsync\n    }), _react.default.createElement(\"span\", {\n      className: _stylesM.default.completeAllTasks\n    }, \"All tasks completed\"))));\n  }\n\n}\n\nexports.default = Scheduler;"
+          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _index = _interopRequireDefault(require(\"../../components/Task/index\"));\n\nvar _index2 = _interopRequireDefault(require(\"../../components/Spinner/index\"));\n\nvar _REST = require(\"../../REST\");\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _instruments = require(\"../../instruments\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Scheduler extends _react.Component {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      tasks: [],\n      isTasksFetching: false,\n      newTaskMessage: '',\n      tasksFilter: ''\n    });\n\n    _defineProperty(this, \"_setTasksFetchingState\", isTasksFetching => {\n      this.setState({\n        isTasksFetching\n      });\n    });\n\n    _defineProperty(this, \"_updateTasksFilter\", event => {\n      const {\n        value\n      } = event.target;\n      this.setState({\n        tasksFilter: value.toLowerCase()\n      });\n\n      this._filterTask();\n    });\n\n    _defineProperty(this, \"_filterTask\", () => {\n      const {\n        tasks,\n        tasksFilter\n      } = this.state;\n\n      if (tasksFilter) {\n        const filteredUserTasks = tasks.filter(task => {\n          return task.message.toLowerCase().includes(tasksFilter);\n        });\n        return filteredUserTasks;\n      }\n\n      return null;\n    });\n\n    _defineProperty(this, \"_fetchTasksAsync\", async () => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const tasks = await _REST.api.fetchTasks();\n        this.setState({\n          tasks: (0, _instruments.sortTasksByGroup)(tasks)\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_createTaskAsync\", async event => {\n      event.preventDefault();\n      const {\n        newTaskMessage\n      } = this.state;\n\n      if (newTaskMessage) {\n        try {\n          this._setTasksFetchingState(true);\n\n          const task = await _REST.api.createTask(newTaskMessage);\n          this.setState(prevState => ({\n            tasks: (0, _instruments.sortTasksByGroup)([task, ...prevState.tasks]),\n            newTaskMessage: ''\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateTaskAsync\", async taskToUpdate => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const {\n          tasks\n        } = this.state;\n        const updatedTask = await _REST.api.updateTask(taskToUpdate);\n        const index = tasks.findIndex(task => task.id === taskToUpdate.id);\n        const updatedTasks = tasks.map((task, id) => id === index ? updatedTask : task);\n        const sortedUpdatedTasks = (0, _instruments.sortTasksByGroup)(updatedTasks);\n        this.setState({\n          tasks: sortedUpdatedTasks\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_removeTaskAsync\", async id => {\n      try {\n        this._setTasksFetchingState(true);\n\n        await _REST.api.removeTask(id);\n        this.setState(({\n          tasks\n        }) => ({\n          tasks: tasks.filter(task => task.id !== id)\n        }));\n      } catch ({\n        message\n      }) {\n        console.error(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_getAllCompleted\", () => {\n      return this.state.tasks.every(task => task.completed);\n    });\n\n    _defineProperty(this, \"_completeAllTasksAsync\", async () => {\n      const incompleteTasks = this.state.tasks.filter(task => task.completed === false);\n\n      if (incompleteTasks.length !== 0) {\n        this._setTasksFetchingState(true);\n\n        try {\n          await _REST.api.completeAllTasks(incompleteTasks.map(task => {\n            task.completed = true;\n            return task;\n          }));\n          this.setState(({\n            tasks\n          }) => ({\n            tasks: tasks.map(task => {\n              task.completed = true;\n              return task;\n            })\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newTaskMessage\n      } = event.target;\n      this.setState({\n        newTaskMessage\n      });\n    });\n  }\n\n  componentDidMount() {\n    this._fetchTasksAsync();\n  }\n\n  render() {\n    const {\n      tasks,\n      isTasksFetching,\n      newTaskMessage,\n      tasksFilter\n    } = this.state;\n\n    const _filteredTask = this._filterTask();\n\n    const currentUserTasks = _filteredTask !== null ? _filteredTask : tasks;\n    const isCheckBoxChecked = tasks.length ? this._getAllCompleted() : false;\n    const tasksJsx = currentUserTasks.map(task => {\n      return _react.default.createElement(_index.default, _extends({\n        key: task.id\n      }, task, {\n        _removeTaskAsync: this._removeTaskAsync,\n        _updateTaskAsync: this._updateTaskAsync\n      }));\n    });\n    return _react.default.createElement(\"section\", {\n      className: _stylesM.default.scheduler\n    }, _react.default.createElement(\"main\", null, _react.default.createElement(_index2.default, {\n      isSpinning: isTasksFetching\n    }), _react.default.createElement(\"header\", null, _react.default.createElement(\"h1\", null, \"Task manager\"), _react.default.createElement(\"input\", {\n      placeholder: \"Search\",\n      type: \"search\",\n      value: tasksFilter,\n      onChange: this._updateTasksFilter\n    })), _react.default.createElement(\"section\", null, _react.default.createElement(\"form\", {\n      onSubmit: this._createTaskAsync\n    }, _react.default.createElement(\"input\", {\n      className: _stylesM.default.createTask,\n      maxLength: 50,\n      placeholder: \"Task description\",\n      type: \"text\",\n      value: newTaskMessage,\n      onChange: this._updateNewTaskMessage\n    }), _react.default.createElement(\"button\", null, \"Add task\")), _react.default.createElement(\"div\", {\n      className: _stylesM.default.overlay\n    }, _react.default.createElement(\"ul\", null, tasksJsx))), _react.default.createElement(\"footer\", null, _react.default.createElement(_Checkbox.default, {\n      checked: isCheckBoxChecked,\n      color1: \"#363636\",\n      color2: \"#fff\",\n      onClick: this._completeAllTasksAsync\n    }), _react.default.createElement(\"span\", {\n      className: _stylesM.default.completeAllTasks\n    }, \"All tasks completed\"))));\n  }\n\n}\n\nexports.default = Scheduler;"
         },
         {
           "id": 153,
@@ -14285,7 +14285,7 @@
           "name": "./source/components/Task/index.js",
           "index": 22,
           "index2": 162,
-          "size": 6280,
+          "size": 6419,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -14335,7 +14335,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 3,
-          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _classnames = _interopRequireDefault(require(\"classnames\"));\n\nvar _propTypes = _interopRequireDefault(require(\"prop-types\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _Star = _interopRequireDefault(require(\"../../theme/assets/Star\"));\n\nvar _Edit = _interopRequireDefault(require(\"../../theme/assets/Edit\"));\n\nvar _Remove = _interopRequireDefault(require(\"../../theme/assets/Remove\"));\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Task extends _react.PureComponent {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      isTaskEditing: false,\n      newMessage: this.props.message\n    });\n\n    _defineProperty(this, \"taskInput\", _react.default.createRef());\n\n    _defineProperty(this, \"_getTaskShape\", ({\n      id = this.props.id,\n      completed = this.props.completed,\n      favorite = this.props.favorite,\n      message = this.props.message\n    }) => ({\n      id,\n      completed,\n      favorite,\n      message\n    }));\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newMessage\n      } = event.target;\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_setTaskEditingState\", isTaskEditing => {\n      this.taskInput.current.disabled = !isTaskEditing;\n\n      if (isTaskEditing) {\n        this.taskInput.current.focus();\n      }\n\n      this.setState({\n        isTaskEditing\n      });\n    });\n\n    _defineProperty(this, \"_updateTask\", () => {\n      const {\n        _updateTaskAsync,\n        message\n      } = this.props;\n      const {\n        newMessage\n      } = this.state;\n\n      if (message !== newMessage) {\n        _updateTaskAsync(this._getTaskShape({\n          message: newMessage\n        }));\n      }\n\n      this._setTaskEditingState(false);\n\n      return null;\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnKeyDown\", event => {\n      const {\n        newMessage\n      } = this.state;\n      const enter = event.key === \"Enter\";\n      const escapeKey = event.key === \"Escape\";\n\n      if (!newMessage) {\n        return null;\n      }\n\n      if (enter) {\n        this._updateTask();\n      }\n\n      if (escapeKey) {\n        this._cancelUpdatingTaskMessage();\n      }\n    });\n\n    _defineProperty(this, \"_toggleTaskFavoriteState\", () => {\n      const {\n        _updateTaskAsync,\n        favorite\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        favorite: !favorite\n      }));\n    });\n\n    _defineProperty(this, \"_toggleTaskCompletedState\", () => {\n      const {\n        _updateTaskAsync,\n        completed\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        completed: !completed\n      }));\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnClick\", () => {\n      const {\n        isTaskEditing\n      } = this.state;\n\n      if (isTaskEditing) {\n        this._updateTask();\n\n        return null;\n      }\n\n      this._setTaskEditingState(true);\n    });\n\n    _defineProperty(this, \"_cancelUpdatingTaskMessage\", () => {\n      const {\n        message: newMessage\n      } = this.props;\n\n      this._setTaskEditingState(false);\n\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_removeTask\", () => {\n      const {\n        _removeTaskAsync,\n        id\n      } = this.props;\n\n      _removeTaskAsync(id);\n    });\n  }\n\n  render() {\n    const {\n      completed,\n      favorite\n    } = this.props;\n    const {\n      isTaskEditing,\n      newMessage\n    } = this.state;\n    return _react.default.createElement(\"li\", {\n      className: (0, _classnames.default)(_stylesM.default.task, {\n        [_stylesM.default.completed]: completed\n      })\n    }, _react.default.createElement(\"div\", {\n      className: _stylesM.default.content\n    }, _react.default.createElement(_Checkbox.default, {\n      inlineBlock: true,\n      checked: completed,\n      className: _stylesM.default.toggleTaskCompletedState,\n      onClick: this._toggleTaskCompletedState\n    }), _react.default.createElement(\"input\", {\n      disabled: true,\n      maxLength: 50,\n      ref: this.taskInput,\n      type: \"text\",\n      value: newMessage,\n      onChange: this._updateNewTaskMessage,\n      onKeyDown: this._updateTaskMessageOnKeyDown\n    })), _react.default.createElement(\"div\", {\n      className: _stylesM.default.actions\n    }, _react.default.createElement(_Star.default, {\n      inlineBlock: true,\n      checked: favorite,\n      className: _stylesM.default.toggleTaskFavoriteState,\n      onClick: this._toggleTaskFavoriteState\n    }), _react.default.createElement(_Edit.default, {\n      inlineBlock: true,\n      checked: isTaskEditing,\n      className: _stylesM.default.updateTaskMessageOnClick,\n      onClick: this._updateTaskMessageOnClick\n    }), _react.default.createElement(_Remove.default, {\n      inlineBlock: true,\n      className: _stylesM.default.removeTask,\n      onClick: this._removeTask\n    })));\n  }\n\n}\n\nexports.default = Task;\n\n_defineProperty(Task, \"propTypes\", {\n  id: _propTypes.default.string.isRequired,\n  completed: _propTypes.default.bool.isRequired,\n  favorite: _propTypes.default.bool.isRequired,\n  message: _propTypes.default.string.isRequired,\n  _removeTaskAsync: _propTypes.default.func.isRequired,\n  _updateTaskAsync: _propTypes.default.func.isRequired\n});"
+          "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _classnames = _interopRequireDefault(require(\"classnames\"));\n\nvar _propTypes = _interopRequireDefault(require(\"prop-types\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _Star = _interopRequireDefault(require(\"../../theme/assets/Star\"));\n\nvar _Edit = _interopRequireDefault(require(\"../../theme/assets/Edit\"));\n\nvar _Remove = _interopRequireDefault(require(\"../../theme/assets/Remove\"));\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Task extends _react.PureComponent {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      isTaskEditing: false,\n      newMessage: this.props.message\n    });\n\n    _defineProperty(this, \"taskInput\", _react.default.createRef());\n\n    _defineProperty(this, \"_getTaskShape\", ({\n      id = this.props.id,\n      completed = this.props.completed,\n      favorite = this.props.favorite,\n      message = this.props.message\n    }) => ({\n      id,\n      completed,\n      favorite,\n      message\n    }));\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newMessage\n      } = event.target;\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_setTaskEditingState\", isTaskEditing => {\n      this.taskInput.current.disabled = !isTaskEditing;\n\n      if (isTaskEditing) {\n        this.taskInput.current.focus();\n      }\n\n      this.setState({\n        isTaskEditing\n      });\n    });\n\n    _defineProperty(this, \"_updateTask\", () => {\n      const {\n        _updateTaskAsync,\n        message\n      } = this.props;\n      const {\n        newMessage\n      } = this.state;\n\n      if (message !== newMessage) {\n        _updateTaskAsync(this._getTaskShape({\n          message: newMessage\n        }));\n      }\n\n      this._setTaskEditingState(false);\n\n      return null;\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnKeyDown\", event => {\n      const {\n        newMessage\n      } = this.state;\n      const enter = event.key === \"Enter\";\n      const escapeKey = event.key === \"Escape\";\n\n      if (!newMessage) {\n        return null;\n      }\n\n      if (enter) {\n        this._updateTask();\n      }\n\n      if (escapeKey) {\n        this._cancelUpdatingTaskMessage();\n      }\n    });\n\n    _defineProperty(this, \"_toggleTaskFavoriteState\", () => {\n      const {\n        _updateTaskAsync,\n        favorite\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        favorite: !favorite\n      }));\n    });\n\n    _defineProperty(this, \"_toggleTaskCompletedState\", () => {\n      const {\n        _updateTaskAsync,\n        completed\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        completed: !completed\n      }));\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnClick\", () => {\n      const {\n        isTaskEditing\n      } = this.state;\n\n      if (isTaskEditing) {\n        this._updateTask();\n\n        return null;\n      }\n\n      this._setTaskEditingState(true);\n    });\n\n    _defineProperty(this, \"_cancelUpdatingTaskMessage\", () => {\n      const {\n        message: newMessage\n      } = this.props;\n\n      this._setTaskEditingState(false);\n\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_removeTask\", () => {\n      const {\n        _removeTaskAsync,\n        id\n      } = this.props;\n\n      _removeTaskAsync(id);\n    });\n  }\n\n  render() {\n    const {\n      completed,\n      favorite\n    } = this.props;\n    const {\n      isTaskEditing,\n      newMessage\n    } = this.state;\n    return _react.default.createElement(\"li\", {\n      className: (0, _classnames.default)(_stylesM.default.task, {\n        [_stylesM.default.completed]: completed\n      })\n    }, _react.default.createElement(\"div\", {\n      className: _stylesM.default.content\n    }, _react.default.createElement(_Checkbox.default, {\n      inlineBlock: true,\n      checked: completed,\n      className: _stylesM.default.toggleTaskCompletedState,\n      color1: \"#3B8EF3\",\n      color2: \"#FFF\",\n      onClick: this._toggleTaskCompletedState\n    }), _react.default.createElement(\"input\", {\n      disabled: true,\n      maxLength: 50,\n      ref: this.taskInput,\n      type: \"text\",\n      value: newMessage,\n      onChange: this._updateNewTaskMessage,\n      onKeyDown: this._updateTaskMessageOnKeyDown\n    })), _react.default.createElement(\"div\", {\n      className: _stylesM.default.actions\n    }, _react.default.createElement(_Star.default, {\n      inlineBlock: true,\n      checked: favorite,\n      className: _stylesM.default.toggleTaskFavoriteState,\n      color1: \"#3B8EF3\",\n      color2: \"FFF\",\n      onClick: this._toggleTaskFavoriteState\n    }), _react.default.createElement(_Edit.default, {\n      inlineBlock: true,\n      checked: isTaskEditing,\n      className: _stylesM.default.updateTaskMessageOnClick,\n      color1: \"#3B8EF3\",\n      color2: \"000\",\n      onClick: this._updateTaskMessageOnClick\n    }), _react.default.createElement(_Remove.default, {\n      inlineBlock: true,\n      className: _stylesM.default.removeTask,\n      onClick: this._removeTask\n    })));\n  }\n\n}\n\nexports.default = Task;\n\n_defineProperty(Task, \"propTypes\", {\n  id: _propTypes.default.string.isRequired,\n  completed: _propTypes.default.bool.isRequired,\n  favorite: _propTypes.default.bool.isRequired,\n  message: _propTypes.default.string.isRequired,\n  _removeTaskAsync: _propTypes.default.func.isRequired,\n  _updateTaskAsync: _propTypes.default.func.isRequired\n});"
         },
         {
           "id": 154,
@@ -21753,8 +21753,8 @@
           "module": "./node_modules/moment/locale sync ^\\.\\/.*$",
           "moduleName": "./node_modules/moment/locale sync ^\\.\\/.*$",
           "type": "context element",
-          "userRequest": "./gom-latn",
-          "loc": "./gom-latn"
+          "userRequest": "./gom-latn.js",
+          "loc": "./gom-latn.js"
         },
         {
           "moduleId": 158,
@@ -21762,8 +21762,8 @@
           "module": "./node_modules/moment/locale sync ^\\.\\/.*$",
           "moduleName": "./node_modules/moment/locale sync ^\\.\\/.*$",
           "type": "context element",
-          "userRequest": "./gom-latn.js",
-          "loc": "./gom-latn.js"
+          "userRequest": "./gom-latn",
+          "loc": "./gom-latn"
         }
       ],
       "usedExports": true,
@@ -28313,9 +28313,9 @@
       "chunks": [
         0
       ],
-      "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
-      "issuerId": 161,
-      "issuerName": "./node_modules/uuid/v4.js",
+      "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
+      "issuerId": 160,
+      "issuerName": "./node_modules/uuid/v1.js",
       "issuerPath": [
         {
           "id": 137,
@@ -28348,9 +28348,9 @@
           "name": "./node_modules/uuid/index.js"
         },
         {
-          "id": 161,
-          "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
-          "name": "./node_modules/uuid/v4.js"
+          "id": 160,
+          "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
+          "name": "./node_modules/uuid/v1.js"
         }
       ],
       "failed": false,
@@ -28400,9 +28400,9 @@
       "chunks": [
         0
       ],
-      "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
-      "issuerId": 160,
-      "issuerName": "./node_modules/uuid/v1.js",
+      "issuer": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
+      "issuerId": 161,
+      "issuerName": "./node_modules/uuid/v4.js",
       "issuerPath": [
         {
           "id": 137,
@@ -28435,9 +28435,9 @@
           "name": "./node_modules/uuid/index.js"
         },
         {
-          "id": 160,
-          "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v1.js",
-          "name": "./node_modules/uuid/v1.js"
+          "id": 161,
+          "identifier": "F:\\LECTRUM_REACT\\react-my-personal-project\\node_modules\\uuid\\v4.js",
+          "name": "./node_modules/uuid/v4.js"
         }
       ],
       "failed": false,
@@ -29365,7 +29365,7 @@
       "name": "./source/components/Scheduler/index.js",
       "index": 21,
       "index2": 171,
-      "size": 8080,
+      "size": 8127,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -29410,7 +29410,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 2,
-      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _index = _interopRequireDefault(require(\"../../components/Task/index\"));\n\nvar _index2 = _interopRequireDefault(require(\"../../components/Spinner/index\"));\n\nvar _REST = require(\"../../REST\");\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _instruments = require(\"../../instruments\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Scheduler extends _react.Component {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      tasks: [],\n      isTasksFetching: false,\n      newTaskMessage: '',\n      tasksFilter: ''\n    });\n\n    _defineProperty(this, \"_setTasksFetchingState\", isTasksFetching => {\n      this.setState({\n        isTasksFetching\n      });\n    });\n\n    _defineProperty(this, \"_updateTasksFilter\", event => {\n      const {\n        value\n      } = event.target;\n      this.setState({\n        tasksFilter: value.toLowerCase()\n      });\n\n      this._filterTask();\n    });\n\n    _defineProperty(this, \"_filterTask\", () => {\n      const {\n        tasks,\n        tasksFilter\n      } = this.state;\n\n      if (tasksFilter) {\n        const filteredUserTasks = tasks.filter(task => {\n          return task.message.toLowerCase().includes(tasksFilter);\n        });\n        return filteredUserTasks;\n      }\n\n      return null;\n    });\n\n    _defineProperty(this, \"_fetchTasksAsync\", async () => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const tasks = await _REST.api.fetchTasks();\n        this.setState({\n          tasks: (0, _instruments.sortTasksByGroup)(tasks)\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_createTaskAsync\", async event => {\n      event.preventDefault();\n      const {\n        newTaskMessage\n      } = this.state;\n\n      if (newTaskMessage) {\n        try {\n          this._setTasksFetchingState(true);\n\n          const task = await _REST.api.createTask(newTaskMessage);\n          this.setState(prevState => ({\n            tasks: (0, _instruments.sortTasksByGroup)([task, ...prevState.tasks]),\n            newTaskMessage: ''\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateTaskAsync\", async taskToUpdate => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const {\n          tasks\n        } = this.state;\n        const updatedTask = await _REST.api.updateTask(taskToUpdate);\n        const index = tasks.findIndex(task => task.id === taskToUpdate.id);\n        const updatedTasks = tasks.map((task, id) => id === index ? updatedTask : task);\n        const sortedUpdatedTasks = (0, _instruments.sortTasksByGroup)(updatedTasks);\n        this.setState({\n          tasks: sortedUpdatedTasks\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_removeTaskAsync\", async id => {\n      try {\n        this._setTasksFetchingState(true);\n\n        await _REST.api.removeTask(id);\n        this.setState(({\n          tasks\n        }) => ({\n          tasks: tasks.filter(task => task.id !== id)\n        }));\n      } catch ({\n        message\n      }) {\n        console.error(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_getAllCompleted\", () => {\n      return this.state.tasks.every(task => task.completed);\n    });\n\n    _defineProperty(this, \"_completeAllTasksAsync\", async () => {\n      const incompleteTasks = this.state.tasks.filter(task => task.completed === false);\n\n      if (incompleteTasks.length !== 0) {\n        this._setTasksFetchingState(true);\n\n        try {\n          await _REST.api.completeAllTasks(incompleteTasks.map(task => {\n            task.completed = true;\n            return task;\n          }));\n          this.setState(({\n            tasks\n          }) => ({\n            tasks: tasks.map(task => {\n              task.completed = true;\n              return task;\n            })\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newTaskMessage\n      } = event.target;\n      this.setState({\n        newTaskMessage\n      });\n    });\n  }\n\n  componentDidMount() {\n    this._fetchTasksAsync();\n  }\n\n  render() {\n    const {\n      tasks,\n      isTasksFetching,\n      newTaskMessage,\n      tasksFilter\n    } = this.state;\n\n    const _filteredTask = this._filterTask();\n\n    const currentUserTasks = _filteredTask !== null ? _filteredTask : tasks;\n    const isCheckBoxChecked = tasks.length ? this._getAllCompleted() : false;\n    const tasksJsx = currentUserTasks.map(task => {\n      return _react.default.createElement(_index.default, _extends({\n        key: task.id\n      }, task, {\n        _removeTaskAsync: this._removeTaskAsync,\n        _updateTaskAsync: this._updateTaskAsync\n      }));\n    });\n    return _react.default.createElement(\"section\", {\n      className: _stylesM.default.scheduler\n    }, _react.default.createElement(\"main\", null, _react.default.createElement(_index2.default, {\n      isSpinning: isTasksFetching\n    }), _react.default.createElement(\"header\", null, _react.default.createElement(\"h1\", null, \"Task manager\"), _react.default.createElement(\"input\", {\n      placeholder: \"Search\",\n      type: \"search\",\n      value: tasksFilter,\n      onChange: this._updateTasksFilter\n    })), _react.default.createElement(\"section\", null, _react.default.createElement(\"form\", {\n      onSubmit: this._createTaskAsync\n    }, _react.default.createElement(\"input\", {\n      className: _stylesM.default.createTask,\n      maxLength: 50,\n      placeholder: \"Task description\",\n      type: \"text\",\n      value: newTaskMessage,\n      onChange: this._updateNewTaskMessage\n    }), _react.default.createElement(\"button\", null, \"Add task\")), _react.default.createElement(\"div\", {\n      className: _stylesM.default.overlay\n    }, _react.default.createElement(\"ul\", null, tasksJsx))), _react.default.createElement(\"footer\", null, _react.default.createElement(_Checkbox.default, {\n      checked: isCheckBoxChecked,\n      onClick: this._completeAllTasksAsync\n    }), _react.default.createElement(\"span\", {\n      className: _stylesM.default.completeAllTasks\n    }, \"All tasks completed\"))));\n  }\n\n}\n\nexports.default = Scheduler;"
+      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _index = _interopRequireDefault(require(\"../../components/Task/index\"));\n\nvar _index2 = _interopRequireDefault(require(\"../../components/Spinner/index\"));\n\nvar _REST = require(\"../../REST\");\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _instruments = require(\"../../instruments\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Scheduler extends _react.Component {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      tasks: [],\n      isTasksFetching: false,\n      newTaskMessage: '',\n      tasksFilter: ''\n    });\n\n    _defineProperty(this, \"_setTasksFetchingState\", isTasksFetching => {\n      this.setState({\n        isTasksFetching\n      });\n    });\n\n    _defineProperty(this, \"_updateTasksFilter\", event => {\n      const {\n        value\n      } = event.target;\n      this.setState({\n        tasksFilter: value.toLowerCase()\n      });\n\n      this._filterTask();\n    });\n\n    _defineProperty(this, \"_filterTask\", () => {\n      const {\n        tasks,\n        tasksFilter\n      } = this.state;\n\n      if (tasksFilter) {\n        const filteredUserTasks = tasks.filter(task => {\n          return task.message.toLowerCase().includes(tasksFilter);\n        });\n        return filteredUserTasks;\n      }\n\n      return null;\n    });\n\n    _defineProperty(this, \"_fetchTasksAsync\", async () => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const tasks = await _REST.api.fetchTasks();\n        this.setState({\n          tasks: (0, _instruments.sortTasksByGroup)(tasks)\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_createTaskAsync\", async event => {\n      event.preventDefault();\n      const {\n        newTaskMessage\n      } = this.state;\n\n      if (newTaskMessage) {\n        try {\n          this._setTasksFetchingState(true);\n\n          const task = await _REST.api.createTask(newTaskMessage);\n          this.setState(prevState => ({\n            tasks: (0, _instruments.sortTasksByGroup)([task, ...prevState.tasks]),\n            newTaskMessage: ''\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateTaskAsync\", async taskToUpdate => {\n      try {\n        this._setTasksFetchingState(true);\n\n        const {\n          tasks\n        } = this.state;\n        const updatedTask = await _REST.api.updateTask(taskToUpdate);\n        const index = tasks.findIndex(task => task.id === taskToUpdate.id);\n        const updatedTasks = tasks.map((task, id) => id === index ? updatedTask : task);\n        const sortedUpdatedTasks = (0, _instruments.sortTasksByGroup)(updatedTasks);\n        this.setState({\n          tasks: sortedUpdatedTasks\n        });\n      } catch ({\n        message\n      }) {\n        console.log(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_removeTaskAsync\", async id => {\n      try {\n        this._setTasksFetchingState(true);\n\n        await _REST.api.removeTask(id);\n        this.setState(({\n          tasks\n        }) => ({\n          tasks: tasks.filter(task => task.id !== id)\n        }));\n      } catch ({\n        message\n      }) {\n        console.error(message);\n      } finally {\n        this._setTasksFetchingState(false);\n      }\n    });\n\n    _defineProperty(this, \"_getAllCompleted\", () => {\n      return this.state.tasks.every(task => task.completed);\n    });\n\n    _defineProperty(this, \"_completeAllTasksAsync\", async () => {\n      const incompleteTasks = this.state.tasks.filter(task => task.completed === false);\n\n      if (incompleteTasks.length !== 0) {\n        this._setTasksFetchingState(true);\n\n        try {\n          await _REST.api.completeAllTasks(incompleteTasks.map(task => {\n            task.completed = true;\n            return task;\n          }));\n          this.setState(({\n            tasks\n          }) => ({\n            tasks: tasks.map(task => {\n              task.completed = true;\n              return task;\n            })\n          }));\n        } catch ({\n          message\n        }) {\n          console.log(message);\n        } finally {\n          this._setTasksFetchingState(false);\n        }\n      } else {\n        return null;\n      }\n    });\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newTaskMessage\n      } = event.target;\n      this.setState({\n        newTaskMessage\n      });\n    });\n  }\n\n  componentDidMount() {\n    this._fetchTasksAsync();\n  }\n\n  render() {\n    const {\n      tasks,\n      isTasksFetching,\n      newTaskMessage,\n      tasksFilter\n    } = this.state;\n\n    const _filteredTask = this._filterTask();\n\n    const currentUserTasks = _filteredTask !== null ? _filteredTask : tasks;\n    const isCheckBoxChecked = tasks.length ? this._getAllCompleted() : false;\n    const tasksJsx = currentUserTasks.map(task => {\n      return _react.default.createElement(_index.default, _extends({\n        key: task.id\n      }, task, {\n        _removeTaskAsync: this._removeTaskAsync,\n        _updateTaskAsync: this._updateTaskAsync\n      }));\n    });\n    return _react.default.createElement(\"section\", {\n      className: _stylesM.default.scheduler\n    }, _react.default.createElement(\"main\", null, _react.default.createElement(_index2.default, {\n      isSpinning: isTasksFetching\n    }), _react.default.createElement(\"header\", null, _react.default.createElement(\"h1\", null, \"Task manager\"), _react.default.createElement(\"input\", {\n      placeholder: \"Search\",\n      type: \"search\",\n      value: tasksFilter,\n      onChange: this._updateTasksFilter\n    })), _react.default.createElement(\"section\", null, _react.default.createElement(\"form\", {\n      onSubmit: this._createTaskAsync\n    }, _react.default.createElement(\"input\", {\n      className: _stylesM.default.createTask,\n      maxLength: 50,\n      placeholder: \"Task description\",\n      type: \"text\",\n      value: newTaskMessage,\n      onChange: this._updateNewTaskMessage\n    }), _react.default.createElement(\"button\", null, \"Add task\")), _react.default.createElement(\"div\", {\n      className: _stylesM.default.overlay\n    }, _react.default.createElement(\"ul\", null, tasksJsx))), _react.default.createElement(\"footer\", null, _react.default.createElement(_Checkbox.default, {\n      checked: isCheckBoxChecked,\n      color1: \"#363636\",\n      color2: \"#fff\",\n      onClick: this._completeAllTasksAsync\n    }), _react.default.createElement(\"span\", {\n      className: _stylesM.default.completeAllTasks\n    }, \"All tasks completed\"))));\n  }\n\n}\n\nexports.default = Scheduler;"
     },
     {
       "id": 153,
@@ -29418,7 +29418,7 @@
       "name": "./source/components/Task/index.js",
       "index": 22,
       "index2": 162,
-      "size": 6280,
+      "size": 6419,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -29468,7 +29468,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 3,
-      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _classnames = _interopRequireDefault(require(\"classnames\"));\n\nvar _propTypes = _interopRequireDefault(require(\"prop-types\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _Star = _interopRequireDefault(require(\"../../theme/assets/Star\"));\n\nvar _Edit = _interopRequireDefault(require(\"../../theme/assets/Edit\"));\n\nvar _Remove = _interopRequireDefault(require(\"../../theme/assets/Remove\"));\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Task extends _react.PureComponent {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      isTaskEditing: false,\n      newMessage: this.props.message\n    });\n\n    _defineProperty(this, \"taskInput\", _react.default.createRef());\n\n    _defineProperty(this, \"_getTaskShape\", ({\n      id = this.props.id,\n      completed = this.props.completed,\n      favorite = this.props.favorite,\n      message = this.props.message\n    }) => ({\n      id,\n      completed,\n      favorite,\n      message\n    }));\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newMessage\n      } = event.target;\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_setTaskEditingState\", isTaskEditing => {\n      this.taskInput.current.disabled = !isTaskEditing;\n\n      if (isTaskEditing) {\n        this.taskInput.current.focus();\n      }\n\n      this.setState({\n        isTaskEditing\n      });\n    });\n\n    _defineProperty(this, \"_updateTask\", () => {\n      const {\n        _updateTaskAsync,\n        message\n      } = this.props;\n      const {\n        newMessage\n      } = this.state;\n\n      if (message !== newMessage) {\n        _updateTaskAsync(this._getTaskShape({\n          message: newMessage\n        }));\n      }\n\n      this._setTaskEditingState(false);\n\n      return null;\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnKeyDown\", event => {\n      const {\n        newMessage\n      } = this.state;\n      const enter = event.key === \"Enter\";\n      const escapeKey = event.key === \"Escape\";\n\n      if (!newMessage) {\n        return null;\n      }\n\n      if (enter) {\n        this._updateTask();\n      }\n\n      if (escapeKey) {\n        this._cancelUpdatingTaskMessage();\n      }\n    });\n\n    _defineProperty(this, \"_toggleTaskFavoriteState\", () => {\n      const {\n        _updateTaskAsync,\n        favorite\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        favorite: !favorite\n      }));\n    });\n\n    _defineProperty(this, \"_toggleTaskCompletedState\", () => {\n      const {\n        _updateTaskAsync,\n        completed\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        completed: !completed\n      }));\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnClick\", () => {\n      const {\n        isTaskEditing\n      } = this.state;\n\n      if (isTaskEditing) {\n        this._updateTask();\n\n        return null;\n      }\n\n      this._setTaskEditingState(true);\n    });\n\n    _defineProperty(this, \"_cancelUpdatingTaskMessage\", () => {\n      const {\n        message: newMessage\n      } = this.props;\n\n      this._setTaskEditingState(false);\n\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_removeTask\", () => {\n      const {\n        _removeTaskAsync,\n        id\n      } = this.props;\n\n      _removeTaskAsync(id);\n    });\n  }\n\n  render() {\n    const {\n      completed,\n      favorite\n    } = this.props;\n    const {\n      isTaskEditing,\n      newMessage\n    } = this.state;\n    return _react.default.createElement(\"li\", {\n      className: (0, _classnames.default)(_stylesM.default.task, {\n        [_stylesM.default.completed]: completed\n      })\n    }, _react.default.createElement(\"div\", {\n      className: _stylesM.default.content\n    }, _react.default.createElement(_Checkbox.default, {\n      inlineBlock: true,\n      checked: completed,\n      className: _stylesM.default.toggleTaskCompletedState,\n      onClick: this._toggleTaskCompletedState\n    }), _react.default.createElement(\"input\", {\n      disabled: true,\n      maxLength: 50,\n      ref: this.taskInput,\n      type: \"text\",\n      value: newMessage,\n      onChange: this._updateNewTaskMessage,\n      onKeyDown: this._updateTaskMessageOnKeyDown\n    })), _react.default.createElement(\"div\", {\n      className: _stylesM.default.actions\n    }, _react.default.createElement(_Star.default, {\n      inlineBlock: true,\n      checked: favorite,\n      className: _stylesM.default.toggleTaskFavoriteState,\n      onClick: this._toggleTaskFavoriteState\n    }), _react.default.createElement(_Edit.default, {\n      inlineBlock: true,\n      checked: isTaskEditing,\n      className: _stylesM.default.updateTaskMessageOnClick,\n      onClick: this._updateTaskMessageOnClick\n    }), _react.default.createElement(_Remove.default, {\n      inlineBlock: true,\n      className: _stylesM.default.removeTask,\n      onClick: this._removeTask\n    })));\n  }\n\n}\n\nexports.default = Task;\n\n_defineProperty(Task, \"propTypes\", {\n  id: _propTypes.default.string.isRequired,\n  completed: _propTypes.default.bool.isRequired,\n  favorite: _propTypes.default.bool.isRequired,\n  message: _propTypes.default.string.isRequired,\n  _removeTaskAsync: _propTypes.default.func.isRequired,\n  _updateTaskAsync: _propTypes.default.func.isRequired\n});"
+      "source": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.default = void 0;\n\nvar _react = _interopRequireWildcard(require(\"react\"));\n\nvar _classnames = _interopRequireDefault(require(\"classnames\"));\n\nvar _propTypes = _interopRequireDefault(require(\"prop-types\"));\n\nvar _Checkbox = _interopRequireDefault(require(\"../../theme/assets/Checkbox\"));\n\nvar _Star = _interopRequireDefault(require(\"../../theme/assets/Star\"));\n\nvar _Edit = _interopRequireDefault(require(\"../../theme/assets/Edit\"));\n\nvar _Remove = _interopRequireDefault(require(\"../../theme/assets/Remove\"));\n\nvar _stylesM = _interopRequireDefault(require(\"./styles.m.css\"));\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\nclass Task extends _react.PureComponent {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      isTaskEditing: false,\n      newMessage: this.props.message\n    });\n\n    _defineProperty(this, \"taskInput\", _react.default.createRef());\n\n    _defineProperty(this, \"_getTaskShape\", ({\n      id = this.props.id,\n      completed = this.props.completed,\n      favorite = this.props.favorite,\n      message = this.props.message\n    }) => ({\n      id,\n      completed,\n      favorite,\n      message\n    }));\n\n    _defineProperty(this, \"_updateNewTaskMessage\", event => {\n      const {\n        value: newMessage\n      } = event.target;\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_setTaskEditingState\", isTaskEditing => {\n      this.taskInput.current.disabled = !isTaskEditing;\n\n      if (isTaskEditing) {\n        this.taskInput.current.focus();\n      }\n\n      this.setState({\n        isTaskEditing\n      });\n    });\n\n    _defineProperty(this, \"_updateTask\", () => {\n      const {\n        _updateTaskAsync,\n        message\n      } = this.props;\n      const {\n        newMessage\n      } = this.state;\n\n      if (message !== newMessage) {\n        _updateTaskAsync(this._getTaskShape({\n          message: newMessage\n        }));\n      }\n\n      this._setTaskEditingState(false);\n\n      return null;\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnKeyDown\", event => {\n      const {\n        newMessage\n      } = this.state;\n      const enter = event.key === \"Enter\";\n      const escapeKey = event.key === \"Escape\";\n\n      if (!newMessage) {\n        return null;\n      }\n\n      if (enter) {\n        this._updateTask();\n      }\n\n      if (escapeKey) {\n        this._cancelUpdatingTaskMessage();\n      }\n    });\n\n    _defineProperty(this, \"_toggleTaskFavoriteState\", () => {\n      const {\n        _updateTaskAsync,\n        favorite\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        favorite: !favorite\n      }));\n    });\n\n    _defineProperty(this, \"_toggleTaskCompletedState\", () => {\n      const {\n        _updateTaskAsync,\n        completed\n      } = this.props;\n\n      _updateTaskAsync(this._getTaskShape({\n        completed: !completed\n      }));\n    });\n\n    _defineProperty(this, \"_updateTaskMessageOnClick\", () => {\n      const {\n        isTaskEditing\n      } = this.state;\n\n      if (isTaskEditing) {\n        this._updateTask();\n\n        return null;\n      }\n\n      this._setTaskEditingState(true);\n    });\n\n    _defineProperty(this, \"_cancelUpdatingTaskMessage\", () => {\n      const {\n        message: newMessage\n      } = this.props;\n\n      this._setTaskEditingState(false);\n\n      this.setState({\n        newMessage\n      });\n    });\n\n    _defineProperty(this, \"_removeTask\", () => {\n      const {\n        _removeTaskAsync,\n        id\n      } = this.props;\n\n      _removeTaskAsync(id);\n    });\n  }\n\n  render() {\n    const {\n      completed,\n      favorite\n    } = this.props;\n    const {\n      isTaskEditing,\n      newMessage\n    } = this.state;\n    return _react.default.createElement(\"li\", {\n      className: (0, _classnames.default)(_stylesM.default.task, {\n        [_stylesM.default.completed]: completed\n      })\n    }, _react.default.createElement(\"div\", {\n      className: _stylesM.default.content\n    }, _react.default.createElement(_Checkbox.default, {\n      inlineBlock: true,\n      checked: completed,\n      className: _stylesM.default.toggleTaskCompletedState,\n      color1: \"#3B8EF3\",\n      color2: \"#FFF\",\n      onClick: this._toggleTaskCompletedState\n    }), _react.default.createElement(\"input\", {\n      disabled: true,\n      maxLength: 50,\n      ref: this.taskInput,\n      type: \"text\",\n      value: newMessage,\n      onChange: this._updateNewTaskMessage,\n      onKeyDown: this._updateTaskMessageOnKeyDown\n    })), _react.default.createElement(\"div\", {\n      className: _stylesM.default.actions\n    }, _react.default.createElement(_Star.default, {\n      inlineBlock: true,\n      checked: favorite,\n      className: _stylesM.default.toggleTaskFavoriteState,\n      color1: \"#3B8EF3\",\n      color2: \"FFF\",\n      onClick: this._toggleTaskFavoriteState\n    }), _react.default.createElement(_Edit.default, {\n      inlineBlock: true,\n      checked: isTaskEditing,\n      className: _stylesM.default.updateTaskMessageOnClick,\n      color1: \"#3B8EF3\",\n      color2: \"000\",\n      onClick: this._updateTaskMessageOnClick\n    }), _react.default.createElement(_Remove.default, {\n      inlineBlock: true,\n      className: _stylesM.default.removeTask,\n      onClick: this._removeTask\n    })));\n  }\n\n}\n\nexports.default = Task;\n\n_defineProperty(Task, \"propTypes\", {\n  id: _propTypes.default.string.isRequired,\n  completed: _propTypes.default.bool.isRequired,\n  favorite: _propTypes.default.bool.isRequired,\n  message: _propTypes.default.string.isRequired,\n  _removeTaskAsync: _propTypes.default.func.isRequired,\n  _updateTaskAsync: _propTypes.default.func.isRequired\n});"
     },
     {
       "id": 154,
@@ -30772,53 +30772,8 @@
       },
       "assets": [
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
-          "size": 494,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-          "size": 1690,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
-          "size": 2367,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-          "size": 771,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-          "size": 445,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
-          "size": 455,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+          "size": 896,
           "chunks": [
           ],
           "chunkNames": [
@@ -30835,8 +30790,44 @@
           "emitted": true
         },
         {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
+          "size": 445,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
           "size": 953,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
+          "size": 551,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
+          "size": 771,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
+          "size": 1690,
           "chunks": [
           ],
           "chunkNames": [
@@ -30853,8 +30844,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
-          "size": 490,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
+          "size": 2367,
           "chunks": [
           ],
           "chunkNames": [
@@ -30871,8 +30862,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
-          "size": 551,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+          "size": 494,
           "chunks": [
           ],
           "chunkNames": [
@@ -30882,6 +30873,24 @@
         {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
           "size": 824,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+          "size": 490,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
+          "size": 896,
           "chunks": [
           ],
           "chunkNames": [
@@ -30925,17 +30934,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-          "size": 896,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
-          "size": 896,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+          "size": 551,
           "chunks": [
           ],
           "chunkNames": [
@@ -30952,8 +30952,35 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-          "size": 551,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+          "size": 455,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
+          "size": 314,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
+          "size": 424,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
+          "size": 33310,
           "chunks": [
           ],
           "chunkNames": [
@@ -30970,8 +30997,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
-          "size": 6537,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+          "size": 5111,
           "chunks": [
           ],
           "chunkNames": [
@@ -30979,8 +31006,17 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
-          "size": 5111,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+          "size": 4385,
+          "chunks": [
+          ],
+          "chunkNames": [
+          ],
+          "emitted": true
+        },
+        {
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
+          "size": 6537,
           "chunks": [
           ],
           "chunkNames": [
@@ -31006,8 +31042,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
-          "size": 4385,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
+          "size": 16064,
           "chunks": [
           ],
           "chunkNames": [
@@ -31042,35 +31078,8 @@
           "emitted": true
         },
         {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-          "size": 16064,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
-          "size": 424,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
-          "size": 314,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-          "size": 33310,
+          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
+          "size": 670,
           "chunks": [
           ],
           "chunkNames": [
@@ -31080,15 +31089,6 @@
         {
           "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
           "size": 1066,
-          "chunks": [
-          ],
-          "chunkNames": [
-          ],
-          "emitted": true
-        },
-        {
-          "name": "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
-          "size": 670,
           "chunks": [
           ],
           "chunkNames": [
@@ -31132,7 +31132,7 @@
           "emitted": true
         },
         {
-          "name": "iconstats-82102daf58c2540343f6.json",
+          "name": "iconstats-05eb78c1beed9a86c581.json",
           "size": 8503,
           "chunks": [
             0
@@ -31148,7 +31148,7 @@
             0
           ],
           "assets": [
-            "iconstats-82102daf58c2540343f6.json"
+            "iconstats-05eb78c1beed9a86c581.json"
           ],
           "children": {
           },
@@ -31162,7 +31162,7 @@
             0
           ],
           "assets": [
-            "iconstats-82102daf58c2540343f6.json"
+            "iconstats-05eb78c1beed9a86c581.json"
           ],
           "children": {
           },
@@ -31180,9 +31180,9 @@
           "names": [
           ],
           "files": [
-            "iconstats-82102daf58c2540343f6.json"
+            "iconstats-05eb78c1beed9a86c581.json"
           ],
-          "hash": "6aa739a8539ac534d161",
+          "hash": "e03333d6c532365c674a",
           "siblings": [
           ],
           "parents": [
@@ -31214,42 +31214,42 @@
               "errors": 0,
               "warnings": 0,
               "assets": [
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-                "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
+                "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json",
                 "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp",
@@ -31271,7 +31271,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
+              "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
             }
           ],
           "filteredModules": 0,
@@ -31311,42 +31311,42 @@
           "errors": 0,
           "warnings": 0,
           "assets": [
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico",
-            "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png",
+            "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json",
             "images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp",
@@ -31368,7 +31368,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
+          "source": "module.exports = {\"outputFilePrefix\":\"images/favicon/icon-c566bb626c9412aec2582936a79e3196\",\"html\":[\"<meta name=\\\"mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"theme-color\\\" content=\\\"#fff\\\">\",\"<meta name=\\\"application-name\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"57x57\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"60x60\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"72x72\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"76x76\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"114x114\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"120x120\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"144x144\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"152x152\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\\\">\",\"<link rel=\\\"apple-touch-icon\\\" sizes=\\\"180x180\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\\\">\",\"<meta name=\\\"apple-mobile-web-app-capable\\\" content=\\\"yes\\\">\",\"<meta name=\\\"apple-mobile-web-app-status-bar-style\\\" content=\\\"black-translucent\\\">\",\"<meta name=\\\"apple-mobile-web-app-title\\\" content=\\\"react-personal-project\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"32x32\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\\\">\",\"<link rel=\\\"icon\\\" type=\\\"image/png\\\" sizes=\\\"16x16\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\\\">\",\"<link rel=\\\"shortcut icon\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\\\">\",\"<link rel=\\\"apple-touch-startup-image\\\" media=\\\"(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)\\\" href=\\\"/react-my-personal-project/images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\\\">\"],\"files\":[\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-96x96.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-48x48.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-36x36.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-192x192.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-384x384.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-256x256.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196android-chrome-512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-76x76.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-152x152.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-57x57.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-precomposed.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-167x167.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-144x144.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-120x120.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-114x114.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-72x72.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon-180x180.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-icon.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-16x16.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon-32x32.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196favicon.ico\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-320x460.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x1096.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-640x920.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-750x1294.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-748x1024.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-768x1004.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1536x2008.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1182x2208.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1496x2048.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196apple-touch-startup-image-1242x2148.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_60x60.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_128x128.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196firefox_app_512x512.png\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.json\",\"images/favicon/icon-c566bb626c9412aec2582936a79e3196manifest.webapp\"]}"
         }
       ],
       "filteredModules": 0,

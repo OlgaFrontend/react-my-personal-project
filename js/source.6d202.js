@@ -17798,6 +17798,8 @@ class Scheduler extends _react.Component {
       className: _stylesM.default.overlay
     }, _react.default.createElement("ul", null, tasksJsx))), _react.default.createElement("footer", null, _react.default.createElement(_Checkbox.default, {
       checked: isCheckBoxChecked,
+      color1: "#363636",
+      color2: "#fff",
       onClick: this._completeAllTasksAsync
     }), _react.default.createElement("span", {
       className: _stylesM.default.completeAllTasks
@@ -18003,6 +18005,8 @@ class Task extends _react.PureComponent {
       inlineBlock: true,
       checked: completed,
       className: _stylesM.default.toggleTaskCompletedState,
+      color1: "#3B8EF3",
+      color2: "#FFF",
       onClick: this._toggleTaskCompletedState
     }), _react.default.createElement("input", {
       disabled: true,
@@ -18018,11 +18022,15 @@ class Task extends _react.PureComponent {
       inlineBlock: true,
       checked: favorite,
       className: _stylesM.default.toggleTaskFavoriteState,
+      color1: "#3B8EF3",
+      color2: "FFF",
       onClick: this._toggleTaskFavoriteState
     }), _react.default.createElement(_Edit.default, {
       inlineBlock: true,
       checked: isTaskEditing,
       className: _stylesM.default.updateTaskMessageOnClick,
+      color1: "#3B8EF3",
+      color2: "000",
       onClick: this._updateTaskMessageOnClick
     }), _react.default.createElement(_Remove.default, {
       inlineBlock: true,
@@ -19047,4 +19055,4 @@ module.exports = {"completeAllTasks":"styles-m__completeAllTasks---1-L3W","sched
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=source.2cf0a.js.map
+//# sourceMappingURL=source.6d202.js.map
