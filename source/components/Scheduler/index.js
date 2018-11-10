@@ -232,6 +232,8 @@ export default class Scheduler extends Component {
                     <footer>
                         <Checkbox
                             checked = { isCheckBoxChecked }
+                            color1 = '#363636'
+                            color2 = '#fff'
                             onClick = { this._completeAllTasksAsync }
                         />
                         <span className = { Styles.completeAllTasks }>

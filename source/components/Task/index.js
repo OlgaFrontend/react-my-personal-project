@@ -156,6 +156,8 @@ export default class Task extends PureComponent {
                         inlineBlock
                         checked = { completed }
                         className = { Styles.toggleTaskCompletedState }
+                        color1 = '#3B8EF3'
+                        color2 = '#FFF'
                         onClick = { this._toggleTaskCompletedState }
                     />
                     <input
@@ -173,12 +175,16 @@ export default class Task extends PureComponent {
                         inlineBlock
                         checked = { favorite }
                         className = { Styles.toggleTaskFavoriteState }
+                        color1 = '#3B8EF3'
+                        color2 = 'FFF'
                         onClick = { this._toggleTaskFavoriteState }
                     />
                     <Edit
                         inlineBlock
                         checked = { isTaskEditing }
                         className = { Styles.updateTaskMessageOnClick }
+                        color1 = '#3B8EF3'
+                        color2 = '000'
                         onClick = { this._updateTaskMessageOnClick }
                     />
                     <Remove
