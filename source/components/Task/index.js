@@ -1,5 +1,5 @@
 // Core
-import React, { Component } from 'react';
+import React, { PureComponent, createRef } from 'react';
 import cx from 'classnames';
 import PropTypes from "prop-types";
 
@@ -12,17 +12,15 @@ import Remove from '../../theme/assets/Remove';
 // Instruments
 import Styles from './styles.m.css';
 
-export default class Task extends Component {
+export default class Task extends PureComponent {
 
-    constructor(props) {
-        super(props);
-        this.taskInput = React.createRef();
-        this.state = {
-            isTaskEditing: false,
-            newMessage:    this.props.message,
-        };
-      }
+    state = {
+        isTaskEditing: false,
+        newMessage:    this.props.message,
+    };
 
+    taskInput = React.createRef();
+    
     static propTypes = {
         id:               PropTypes.string.isRequired,
         completed:        PropTypes.bool.isRequired,
