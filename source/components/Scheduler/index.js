@@ -1,5 +1,7 @@
 // Core
 import React, { Component } from 'react';
+import { Transition, CSSTransition, TransitionGroup } from 'react-transition-group';
+import { fromTo } from 'gsap';
 
 // Components
 import Task from '../../components/Task/index';
@@ -182,12 +184,21 @@ export default class Scheduler extends Component {
         const tasksJsx = currentUserTasks.map((task) => {
 
             return (
-                <Task
-                    key = { task.id }
-                    { ...task }
-                    _removeTaskAsync = { this._removeTaskAsync }
-                    _updateTaskAsync = { this._updateTaskAsync }
-                />
+                <CSSTransition  
+                classNames = { { 
+                  enter:       Styles.taskInStart, 
+                  enterActive: Styles.taskInEnd,
+                  exit:        Styles.taskOutStart,
+                  exitActive:  Styles.taskOutEnd,
+                } }
+                key = { task.id } 
+                timeout = { { enter: 500, exit: 400 } }>
+                    <Task
+                        { ...task }
+                        _removeTaskAsync = { this._removeTaskAsync }
+                        _updateTaskAsync = { this._updateTaskAsync }
+                    />
+                </CSSTransition>
             );
 
         });
@@ -225,7 +236,7 @@ export default class Scheduler extends Component {
                         </form>
                         <div className = { Styles.overlay }>
                             <ul>
-                                { tasksJsx }
+                                <TransitionGroup>{tasksJsx}</TransitionGroup>
                             </ul>
                         </div>
                     </section>

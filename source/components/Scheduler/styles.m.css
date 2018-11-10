@@ -9,6 +9,29 @@
     user-select: none;
     min-height: 100vh;
 
+    & .taskInStart {
+        transform: scale(.5);
+        opacity: .01;
+    }
+
+    & .taskInEnd {
+        transform: scale(1);
+        transition: opacity 400ms ease-in-out,
+            transform 400ms ease-in-out;
+        opacity: 1;
+    }
+
+    & .taskOutStart {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    & .taskOutEnd {
+        transform: scale(0);
+        transform: opacity 400ms ease-in-out, transform 400ms ease-in-out;
+        opacity: 0;
+    }
+
     & main {
         width: 100%;
         max-width: 950px;
