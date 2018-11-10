@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Компонент Sinner: должен отрендерить null, если значение пропса isSpinning — false 1`] = `""`;
+
+exports[`Компонент Sinner: должен отрендерить разметку, если значение пропса isSpinning — true 1`] = `
+<div
+  className="spinner"
+/>
+`;
